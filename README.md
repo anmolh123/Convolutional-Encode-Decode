@@ -23,7 +23,7 @@ To install MATLAB follow the official site instructions <a>https://in.mathworks.
 2. Move into the directory  
     
     ```
-        cd Convolutional-Encoding-Decoding/
+        cd Convolutional-Encode-Decode
     ```       
 3. To run the the program execute file ex.m passing parameter as 4 
 
